@@ -1,0 +1,18 @@
+[
+    {
+        "shipdate":"12-11-2022",
+        "OCV": ".03",
+        "Part Number":"123123ABC"
+    },
+    {
+        "shipdate":"12-12-2022",
+        "OCV": ".04",
+        "Part Number":"123123DEF"
+    },
+    {
+        "shipdate":"12-14-2022",
+        "OCV": ".01",
+        "Part Number":"123123GHI"
+    }
+
+]
